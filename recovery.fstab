@@ -1,0 +1,2 @@
+/data     ext4     /dev/block/bootdevice/by-name/userdata     flags=display=data
+/misc     emmc     /dev/block/bootdevice/by-name/misc         flags=display=misc
